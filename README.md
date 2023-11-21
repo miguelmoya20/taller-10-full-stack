@@ -5,7 +5,7 @@
 <p>Profesor: Cristian Pantiño</p>
 
 <h2>Link de la Pagina Web</h2>
-<a href="">Link de la pagina web</a>
+<a href=""></a>
 
 <h2>Punto 1: Constantes y Variables</h2>
 <a href=""></a>
@@ -26,7 +26,7 @@
 <img src="" alt="">
 
 <h2>Punto 7: Seleccion de operacion aritmetica</h2>
-<img src="" alt=" ">
+<img src="" alt="">
 
 <h2>Punto 8: Entrada de bolera usando Switch</h2>
 <img src="" alt="">
