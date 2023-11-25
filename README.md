@@ -8,7 +8,7 @@
 <a href=""></a>
 
 <h2>Punto 1: Constantes y Variables</h2>
-<a href=""></a>
+<img src="./public/images/punto-01.png" alt="punto 01"></img>
 
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
 <img src="" alt="">
