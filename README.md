@@ -11,7 +11,7 @@
 <img src="./public/images/punto-01.png" alt="punto 01"></img>
 
 <h2>Punto 2: Sumas de Constantes y Variables</h2>
-<img src="" alt="">
+<img src="./public/images/punto-02.png" alt="punto 02">
 
 <h2>Punto 3: Sunas de dos numeros indicados por el usuario </h2>
 <img src="" alt="">
