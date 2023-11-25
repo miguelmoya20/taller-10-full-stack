@@ -14,10 +14,10 @@
 <img src="./public/images/punto-02.png" alt="punto 02">
 
 <h2>Punto 3: Sunas de dos numeros indicados por el usuario </h2>
-<img src="" alt="">
+<img src="./public/images/punto-03.png" alt="punto 03">
 
 <h2>Punto 4: Datos del Usuario en consola</h2>
-<img src="" alt="">
+<img src="./public/images/punto-04.png" alt="punto 04">
 
 <h2>Punto 5: Entrada de bolera usando if / else </h2>
 <img src="" alt="">
